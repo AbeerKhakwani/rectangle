@@ -44,7 +44,7 @@
         } else {
             return "<h1>Sorry! This isn't a square. It's area is $area.</h1>";
 
-        
+
         }
     });
     return $app;
