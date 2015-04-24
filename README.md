@@ -8,11 +8,11 @@ March 3 2015
 
 Description
 
-This assessment is to create a website in Silex that returns weather the side you input make a rectangle or not.
+This assessment is to create a website in Silex that returns weather the side you input make a square or not.
 
 Use and Editing
 
-To use the app, download the source code and run it in on your php server. To edit the app, download the source code and open it in your text editor.
+To use the app, download the source code and run it in on your php server (web folder). To edit the app, download the source code and open it in your text editor.
 Note: If you are copying any of the code to your own directories, you may need to install Composer in your root directory.
 
 Copyright (c) 2015 Abeer Khakwani
